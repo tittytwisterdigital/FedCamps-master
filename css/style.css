@@ -6,17 +6,17 @@
  * Made By MaterializeCSS.com
  */
 
- body {
-  font-family: 'Nunito', sans-serif;
- }
+body {
+  font-family: 'Nanum Pen Script', cursive;
+}
 
 nav ul a,
 nav .brand-logo {
-  color: #fb8c00;
+  color: #000000;
 }
 
 nav .brand-logo {
-  font-family: 'Baloo Paaji 2', cursive;
+  font-family: 'Delius', cursive;
 }
 
 .img-resized {
@@ -26,8 +26,12 @@ nav .brand-logo {
   height: 50px;
 }
 
+.sezioni {
+  font-size: 2px;
+}
+
 .nav-wrapper {
-    padding: 0 50px;
+  padding: 0 50px;
 }
 
 p {
@@ -35,7 +39,7 @@ p {
 }
 
 .sidenav-trigger {
-  color: #9999c3;
+  color: #000000;
 }
 
 .parallax-container {
@@ -44,19 +48,19 @@ p {
   height: auto;
   color: rgba(255,255,255,.9);
 }
-  .section-intro {
+
+.section-intro {
     height: 100%;
     width: 100%;
-  }
+}
 
-  .header {
+.header {
     margin-top: 15%;
 }
 
-  .header-subtitle {
-    font-size: 1.3rem;
+.header-subtitle {
+    font-size: 2rem;
 }
-
 
 @media only screen and (max-width : 992px) {
   .parallax-container .section {
