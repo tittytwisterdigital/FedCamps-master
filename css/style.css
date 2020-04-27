@@ -58,19 +58,17 @@ p {
     width: 100%;
 }
 
-.header {
+.intro-header {
     margin-top: 15%;
     font-family: 'Permanent Marker', cursive;
 }
 
-.header-subtitle {
-    font-size: 2rem;
+.headerintro-subtitle {
+    font-size: 2em;
     font-family: 'Advent Pro', sans-serif;
+    line-height: 1.4em;
 }
 
-.icon-name {
-    font-family: 'Permanent Marker', cursive;
-}
 @media only screen and (max-width : 992px) {
   .parallax-container .section {
     position: absolute;
@@ -103,9 +101,13 @@ p {
   font-size: inherit;
 }
 
+.icon-name {
+    font-family: 'Permanent Marker', cursive;
+}
+
 #servizio h5 {
   font-size: 1.3em;
-  line-height: 1.6em;
+  line-height: 1.4em;
 }
 
 .section-registrazione {
@@ -118,9 +120,16 @@ p {
   margin-top: 60px;
 }
 
+.registrazione-header {
+    margin-top: 15%;
+    font-family: 'Permanent Marker', cursive;
+}
+
 .registrazione-subtitle {
-  font-size: 1.3em;
-  margin-top: 20%;
+  font-size: 2em;
+  margin-top: 10%;
+  font-family: 'Advent Pro', sans-serif;
+  line-height: 1.4em;
 }
 
 .btn-registrazione {
@@ -129,17 +138,24 @@ p {
 
 .comune-icon {
   font-size: 7em;
-  margin-top: 60px;
+}
+
+.comune-header {
+    margin-top: 15%;
+    font-family: 'Permanent Marker', cursive;
 }
 
 .comune-subtitle {
-  font-size: 1.3em;
-  margin-top: 5%;
-  line-height: 1.6em;
+  font-size: 2em;
+  margin-top: 10%;
+  font-family: 'Advent Pro', sans-serif;
+  line-height: 1.4em;
 }
 
 .btn-comune {
   width: 100%;
+  margin-top: 5%;
+  font-family: 'Advent Pro', sans-serif;
 }
 
 footer.page-footer {
