@@ -69,6 +69,22 @@ p {
     line-height: 1.4em;
 }
 
+.come-funziona-icon {
+  font-size: 7em;
+}
+
+.come-funziona-header {
+    margin-top: 15%;
+    font-family: 'Permanent Marker', cursive;
+}
+
+.come-funziona-subtitle {
+  font-size: 2em;
+  margin-top: 10%;
+  font-family: 'Advent Pro', sans-serif;
+  line-height: 1.4em;
+}
+
 @media only screen and (max-width : 992px) {
   .parallax-container .section {
     position: absolute;
