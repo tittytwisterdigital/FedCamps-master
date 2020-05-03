@@ -12,7 +12,11 @@ body {
 
 nav ul a,
 nav .brand-logo {
-  color: #000000;
+  color: ##E8EDDF;
+}
+
+.nav-bar {
+  background-color: #333533;
 }
 
 .nav-wrapper {
@@ -66,7 +70,9 @@ p {
 .headerintro-subtitle {
     font-size: 2em;
     font-family: 'Advent Pro', sans-serif;
+    font-weight: 700;
     line-height: 1.4em;
+    font-color: #7C809B;
 }
 
 .come-funziona-icon {
@@ -82,6 +88,7 @@ p {
   font-size: 2em;
   margin-top: 10%;
   font-family: 'Advent Pro', sans-serif;
+  font-weight: 700;
   line-height: 1.4em;
 }
 
@@ -146,6 +153,7 @@ p {
   font-size: 2em;
   margin-top: 10%;
   font-family: 'Advent Pro', sans-serif;
+  font-weight: 700;
   line-height: 1.4em;
 }
 
@@ -166,6 +174,7 @@ p {
   font-size: 2em;
   margin-top: 10%;
   font-family: 'Advent Pro', sans-serif;
+  font-weight: 700;
   line-height: 1.4em;
 }
 
@@ -198,6 +207,7 @@ p {
   font-size: 2em;
   margin-top: 10%;
   font-family: 'Advent Pro', sans-serif;
+  font-weight: 700;
   line-height: 1.4em;
 }
 
@@ -207,16 +217,16 @@ p {
 
 footer.page-footer {
   margin: 0;
-  background-color: #ffab40
+  background-color: #F5CB5C
 }
 
 .social-icon {
   font-size: 1.5em;
   margin-top: 60px;
-  color: #fff;
+  color: #333533;
   padding: 0 20px;
 }
 
 .social-icon:hover {
-  color: #e88d67;
+  color: #333533;
 }
